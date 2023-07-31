@@ -1,5 +1,8 @@
 # 📈 Real-Time People Counting and Analysis
 
+![Image](https://io.dropinblog.com/uploaded/blogs/34241363/files/featured/1-min_2.png)
+
+
 This Python script allows you to count the number of people in a live video stream from a camera or a YouTube video URL. It uses the cvlib library for object detection, vidgear for video streaming, and matplotlib for real-time data analysis and graph plotting.
 
 ## Requirements
@@ -14,7 +17,7 @@ Before running the script, make sure you have the following Python packages inst
 
 You can install these packages using pip with the following commands:
 
-      Copy code
+      
       pip install cvlib
       pip install vidgear
       pip install matplotlib
@@ -43,3 +46,10 @@ Make sure to adjust the data_collection_interval and print_interval variables in
 **Important**: Ensure you have a stable internet connection when running the first script with a YouTube video URL as the video source. Also, make sure to comply with YouTube's terms of service when using their videos as a data source.
 
 🕺 Happy People Counting and Real-Time Analysis!
+
+##
+
+## 💙 If you like this project, give it a ⭐️ and share it with friends!
+
+
+### <a href="https://github.com/CreativeMotion26?tab=repositories">🔥 Do more fun projects!</a>
